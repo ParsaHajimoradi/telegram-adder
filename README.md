@@ -1,6 +1,9 @@
 <h1>Adder Program for Group Members</h1>
 <h2>Automatic group to group adder</h2>
-<p>You can use this tool to first collect the IDs of group members and then add them to your own group.</p>
+<h4>
+  Note:
+Make sure to manually enter your api_id, api_hash, and phone_number in the corresponding fields before running the program.
+</h4>
 <h3>
 
 ### How the Program Works:
