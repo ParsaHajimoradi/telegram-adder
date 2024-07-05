@@ -1,6 +1,4 @@
-<h1>Adder Program for Group Members</h1>
-<h2>Automatic group to group adder</h2>
-<h4>
+<h1>Telegram Group User Adder</h1>
   Note:
 Make sure to manually enter your api_id, api_hash, and phone_number in the corresponding fields before running the program.
 </h4>
