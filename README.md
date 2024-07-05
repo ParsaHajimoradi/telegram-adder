@@ -43,3 +43,11 @@ pip install telethon
 ```
 </h3>
 <a href="https://t.me/freedomensan">My Telegram Channel</a>
+<h3>
+
+### 💕 Please buy me coffee with love, ;Sabet; Company 💕
+### ☕ My TON wallet address: UQDiXdJHBFL1OdBKkh6pDbDhLeveqJ1-3FSAdnenlNLjfgd6 ☕
+
+
+  
+</h3>
